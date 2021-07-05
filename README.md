@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Profile Views](https://komarev.com/ghpvc/?username=arpitasingh07&color=blueviolet)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">      
+![Profile Views](https://komarev.com/ghpvc/?username=arpitasingh07&color=blueviolet) 
 
 
 - 🔭 My name is Arpita Singh. I am currently pursuing B.TECH in Computer Science & Engineering (Specialization- Cybersecurity).
